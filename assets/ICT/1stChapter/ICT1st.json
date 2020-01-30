@@ -1,0 +1,87 @@
+[{
+        "1": "নিম্নলিখিত সি কোডের আউটপুট কত হবে?\n #include <stdio.h>\nint main(){\nwhile ()\nprintf('In while loop');\nprintf('After loop\n');\n}",
+        "2": "HTML এর সর্বশেষ ভার্সন HTML.৫ পরিচিতি লাভ করে কত সালে?",
+        "3": "নিম্নলিখিত সি কোডের আউটপুট কত হবে?\n #include <stdio.h>\nvoid main(){\nint k = 0;\nfor (k)\nprintf('Hello');\n}",
+        "4": "HTML এর সর্বশেষ ভার্সন নিচের কোনটি?",
+        "5": "ডাইনামিক ওয়েব পেইজ তৈরিতে ব্যাহৃত সফটওয়্যার কোনটি?",
+        "6": "Hyper Text Markup Language এর সাহায্যে কী তৈরি করা যায়?",
+        "7": "MSD এর পূর্ণরূপ কোনটি ?",
+        "8": "ভিত্তির মান ০ হলে আমরা যে সংখ্যা পদ্ধতি পাই তাকে কী বলা হয় ?",
+        "9": "XOR গেইট প্রকাশ করে দু’টি বুলিয়ান রাশির-",
+        "10": "নিচের কোনটি অদ্ভুত গেইট ?"
+    },
+    {
+        "1": {
+            "a": "In while loop",
+            "b": "After loop",
+            "c": "Compile time error",
+            "d": "Infinite loop"
+        },
+        "2": {
+            "a": "২০০৮ সালে",
+            "b": "২০০৯ সালে",
+            "c": "২০১০ সালে",
+            "d": "২০১১ সালে"
+        },
+        "3": {
+            "a": "Compile time error",
+            "b": "hello",
+            "c": "Nothing",
+            "d": "Varies"
+        },
+        "4": {
+            "a": "HTML.3",
+            "b": "HTML.4",
+            "c": "HTML.5",
+            "d": "HTML.6"
+        },
+        "5": {
+            "a": "Layout",
+            "b": "Syntax",
+            "c": "Formatting",
+            "d": "Pert"
+        },
+        "6": {
+            "a": "URL",
+            "b": "http",
+            "c": "TCP/IP",
+            "d": "Wab page"
+        },
+        "7": {
+            "a": "Most Significant Digit",
+            "b": " Matro System Digit",
+            "c": "Million Significant Digit",
+            "d": "Mini Significant Digit"
+        },
+        "8": {
+            "a": "বাইনারি পদ্ধতি",
+            "b": "সাধারণ পদ্ধতি",
+            "c": "দশমিক পদ্ধতি",
+            "d": "অ্যানালগ পদ্ধতি"
+        },
+        "9": {
+            "a": "যোগফল",
+            "b": "গুণফল",
+            "c": "ভাগফল",
+            "d": "উপরের কোনোটি নয়"
+        },
+        "10": {
+            "a": "অ্যান্ড ( AND )",
+            "b": "নট ( NOT )",
+            "c": "এক্স-অর ( X-OR )",
+            "d": "অর ( OR )"
+        }
+    },
+    {
+        "1": "Compile time error",
+        "2": "২০১০ সালে",
+        "3": "Compile time error",
+        "4": "HTML.5",
+        "5": "Pert",
+        "6": "Wab page",
+        "7": "Most Significant Digit",
+        "8": "সাধারণ পদ্ধতি",
+        "9": "যোগফল",
+        "10": "এক্স-অর ( X-OR )"
+    }
+]
